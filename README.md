@@ -3,4 +3,4 @@ This python scripts converts the list of dat files present in a folder into a si
 
 Note: Make sure that the dat files are stored serially in the folder.
 
-** Kindly Acknowledge this any report for the use.
+** Kindly Acknowledge this in any report for the use.
